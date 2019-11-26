@@ -1,4 +1,7 @@
 # HUD
+
+[en](https://github.com/dzp181/PhotoBroswer/blob/master/README.en.md)
+
 *   MBProgressHUD:强大的Hud显示、提供了多种hud状态、自定义简单灵活。 [官网](https://github.com/jdg/MBProgressHUD)
 *   SVProgressHUD:简洁美观，轻量级的进度指示HUD。 [官网](https://github.com/TransitApp/SVProgressHUD)
 *   NVActivityIndicatorView:非常全面的loading hud集合，总有适合你心意的。 [官网](https://github.com/ninjaprox/NVActivityIndicatorView)
